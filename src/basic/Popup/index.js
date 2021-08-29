@@ -224,7 +224,7 @@ const styles = StyleSheet.create({
 		elevation: 11
 	},
 	Danger: {
-		backgroundColor: '#F29091',
+		backgroundColor: '#F57C00',
 		shadowColor: "#F29091",
 		shadowOffset: {
 			width: 0,
